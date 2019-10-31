@@ -1,0 +1,4 @@
+#Sat Apr 13 14:12:57 EDT 2019
+base.0=D\:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

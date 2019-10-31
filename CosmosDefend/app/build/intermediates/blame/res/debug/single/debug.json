@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ship.png.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\drawable\\ship.png"
+    },
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Humber\\Semester 4\\Game 252_Mobile Programming\\InClassWork\\CosmosDefend\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

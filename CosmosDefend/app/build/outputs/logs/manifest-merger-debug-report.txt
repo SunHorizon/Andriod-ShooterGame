@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:3:7-48
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:7:5-18:19
+	android:label
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:8:9-32
+	android:icon
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:7:18-47
+activity#com.badlogic.androidgames.mrnom.CosmosDefendGame
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:9:9-17:20
+	android:screenOrientation
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:12:19-55
+	android:label
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:10:19-47
+	android:configChanges
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:11:19-78
+	android:name
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:9:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:15:27-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml:20:22-78
+uses-sdk
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		ADDED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Humber\Semester 4\Game 252_Mobile Programming\InClassWork\CosmosDefend\app\src\main\AndroidManifest.xml
